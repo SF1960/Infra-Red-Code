@@ -1,4 +1,4 @@
-##Infra-Red-Code
+# Infra-Red-Code
 
 ## A basic code for working with Infrared
 
